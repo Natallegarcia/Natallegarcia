@@ -5,6 +5,6 @@
 - 📚 diciplinas finalizadas: Estrutura de Dados, Programação Orientada a Objetos, Banco de Dados & SQL, Lógica da Programação
 - 🔭 Atualmente estou estagiando na área do Desenvolvimento da empresa Globaltec 
 - 🌱 Atualmente aprendendo Java, JavaScript, HTML, SQL.
-- ⚡ Fun fact: graduada em Licenciatura em História pela PUC Goiás.
+- ⚡ Fun fact: licenciada em História pela PUC Goiás.
 
 
